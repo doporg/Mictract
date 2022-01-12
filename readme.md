@@ -1,6 +1,6 @@
 # Mictract
 
-**Markdown是一个基于hyperledger fabirc的BAAS（Blockchain As A Service)原型平台**
+**Mictract是一个基于hyperledger fabric的BAAS（Blockchain As A Service)原型平台**
 
 
 > BaaS的服务性体现在：工具性更强，便于创建、部署、运行和监控区块链。开发人员只需通过 API 和 SDK 等接口，连接这些功能，降低中小企业使用区块链的门槛。 BaaS 可使开发人员专注于业务应用层面的开发，无需专门建设自己的基础设施，服务购买即可，不仅可节省服务端研发成本，还可提供更好的测试工具，降低部署和测试成本。 可根据开发者的产品和业务特点，提供不同的在线配置和代码功能，扩展开发者自定义的功能，满足个性化需求，提高灵活性。 用户借助 BaaS 供应商在行业内的影响力和经验，可提升自身系统性的安全性。
